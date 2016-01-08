@@ -1,0 +1,45 @@
+body {
+  background-color: #add8e6;
+  font-family: sans-serif;
+}
+
+h2{
+  text-align: center;
+  font-family: serif;
+}
+h3 {
+  text-align: center;
+  font-variant: small-caps;
+}
+h4 {
+  text-indent: 30px;
+  font-variant: small-caps;
+}
+
+.sidebar {
+  width: 35%;
+  border: 2px solid black;
+  float: left;
+  background-color: white;
+  padding: 5px;
+}
+
+.Rsidebar {
+  width: 35%;
+  border: 2px solid black;
+  float: right;
+  background-color: white;
+  padding: 5px;
+}
+
+.digital ul {
+    line-height: 30px;
+}
+
+ol.c {
+    list-style-type: upper-roman;
+  }
+
+li {
+  font-size: 15px;
+}
